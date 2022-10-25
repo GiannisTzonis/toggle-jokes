@@ -1,7 +1,14 @@
 * {
   box-sizing: border-box;
+  background-color: blue;
 }
 
 body {
   font-family: "IBM Plex Mono", monospace;
+  color: aqua;
+}
+
+.buttoN {
+  color: aqua;
+  border: 3px aqua solid;
 }
